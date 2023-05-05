@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #326da8;
+  border: none;
+  padding: 0.3em 1rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border-radius: 3px;
+}
+
+.result-wrapper {
+  margin: 1rem auto;
+  background-color: brown;
+  padding: 1rem;
+  color: #fff;
+}
